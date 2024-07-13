@@ -20,7 +20,6 @@ const ImageUpload: React.FC<ImageUploadProps> = ({
     onChange(result.info.secure_url);
   };
 
-
   return (
     <div>
       <div className="mb-4 flex flex-wrap items-center gap-4">
@@ -41,7 +40,7 @@ const ImageUpload: React.FC<ImageUploadProps> = ({
         ))}
       </div>
 
-      <CldUploadWidget uploadPreset="zkgr9lrq" onSuccess={onUpload}>
+      <CldUploadWidget uploadPreset="cqsdg1lv" onSuccess={onUpload}>
         {({ open }) => {
           return (
             <Button type="button" onClick={() => open()} className="bg-grey-1 text-white">

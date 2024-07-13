@@ -110,6 +110,8 @@ const ProductForm: React.FC<ProductFormProps> = ({ initialData }) => {
         method: "POST",
         body: JSON.stringify(values),
       });
+
+
       if (res.ok) {
         setLoading(false);
         toast.success(`Product ${initialData ? "updated" : "created"}`);
