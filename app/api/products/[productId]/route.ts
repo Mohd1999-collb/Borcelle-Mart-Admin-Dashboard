@@ -97,6 +97,7 @@ export const POST = async (
         })
       ),
 
+
       // Update removed collections without this product
       ...removedCollections.map((collectionId: string) =>
         Collection.findByIdAndUpdate(collectionId, {
