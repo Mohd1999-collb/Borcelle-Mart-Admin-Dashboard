@@ -49,4 +49,6 @@ const Collections = () => {
   );
 };
 
+export const dynamic = "force-dynamic";
+
 export default Collections;

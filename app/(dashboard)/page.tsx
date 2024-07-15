@@ -16,28 +16,11 @@ import { BadgeIndianRupee, ShoppingBag, UserRound } from "lucide-react";
 
 export default async function Home() {
 
-  // const { user } = useUser();
-  // const router = useRouter();
-
   const totalRevenue = await getTotalSales().then((data) => data.totalRevenue);
   const totalOrders = await getTotalSales().then((data) => data.totalOrders);
   const totalCustomers = await getTotalCustomers();
 
   const graphData = await getSalesPerMonth();
-
-  // const handleLike = async (e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
-  //   e.preventDefault();
-  //   try {
-  //     if (!user) {
-  //       router.push("/sign-in");
-  //       return;
-  //     } else {
-        
-  //     }
-  //   } catch (err) {
-  //     console.log("[wishlist_POST]", err);
-  //   }
-  // };
 
   return (
     <div className="px-8 py-10">
