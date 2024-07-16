@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+Borcelle Mart Store - https://github.com/Mohd1999-collb/Borcelle-Mart-Store-
 
-First, run the development server:
+##
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features of Borcelle Mart
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+• Developed a comprehensive e-commerce platform using Next.js,
+featuring both front-end and back-end. Includes an admin panel, user
+and item information, and a seamless sign-up and purchase process.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+• Implemented secure user authentication and streamlined
+management with the Clerk library, while optimizing payment
+processes with Stripe and ensuring high-performance MongoDB
+database management.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+• Designed a robust product catalog with detailed listings, advanced
+search and integrated user account features for registration, profile
+management, order tracking, and secure payments.
 
-## Learn More
+• Optimized website performance and user experience through
+responsive design, ensuring compatibility and functionality across
+various devices and screen sizes.
 
-To learn more about Next.js, take a look at the following resources:
+• Gained hands on experience in front-end and back-end web
+development, including Next.js, API integration, state management,
+and component architecture.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+##
