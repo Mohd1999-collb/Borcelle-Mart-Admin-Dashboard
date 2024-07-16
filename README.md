@@ -1,7 +1,11 @@
 
 Borcelle Mart Store - https://github.com/Mohd1999-collb/Borcelle-Mart-Store-
-
 ##
+
+## Overview
+The Borcelle Mart Admin Dashboard is a powerful and intuitive interface designed for managing the various aspects of the e-commerce platform. It provides administrators with full control over product management, order tracking, and customer information. The dashboard is built to ensure ease of use, security, and efficiency, enabling administrators to streamline their operations and maintain a well-organized store.
+
+![Screenshot (56)](https://github.com/user-attachments/assets/30fcc9c5-ac68-4065-9e2f-f3bd53580aa7)
 
 ## Features of Borcelle Mart
 
